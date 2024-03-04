@@ -4,7 +4,7 @@ const fs = require('fs');
 const mongoose = require('mongoose');
 
 // MongoDB connection URL
-const mongoUrl = 'mongodb+srv://Park_usr:tv9VOI902dcAyLvr@cluster0.dsb0mda.mongodb.net/ParkDB';
+const mongoUrl = 'XXXXXXXXXXX';
 
 // Connect to MongoDB using Mongoose
 mongoose.connect(mongoUrl);
